@@ -1,6 +1,6 @@
 ---
 name: User Story
-about: Suggest an user story for this project
+about: This template is for creating user stories.
 title: ''
 labels: ''
 assignees: ''
